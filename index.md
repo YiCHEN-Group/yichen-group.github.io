@@ -41,7 +41,7 @@ Our research focuses on mechanical and acoustic metamaterials, aiming to discove
 <div class="home-research-grid">
 {% for direction in site.data.research %}
   <a class="home-research-card" href="{{ '/research' | relative_url }}">
-    <img src="{{ direction.image | relative_url }}"
+    <img src="{{ direction.home_image | relative_url }}"
          alt="{{ direction.image_alt }}"
          loading="lazy">
     <div class="home-research-card__body">
