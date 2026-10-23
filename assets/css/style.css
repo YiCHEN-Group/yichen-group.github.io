@@ -237,6 +237,7 @@ footer {
 .home-research-card img {
     display: block;
     width: 100%;
+    max-width: 100%;
     height: auto;
     object-fit: contain;
     object-position: center center;
@@ -269,6 +270,7 @@ footer {
     margin-top: 12px;
     text-align: right;
 }
+
 
 /* Research page cards */
 
