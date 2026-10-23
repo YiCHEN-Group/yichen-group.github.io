@@ -305,7 +305,7 @@ footer {
 }
 
 .research-card__body {
-    padding: 20px 22px 22px;
+    padding: 16px 10px 10px;
 }
 
 .research-card__body h2 {
@@ -315,7 +315,7 @@ footer {
 }
 
 .research-card__body p {
-    line-height: 1.7;
+    line-height: 1.35;
 }
 
 .research-card__body ul {
