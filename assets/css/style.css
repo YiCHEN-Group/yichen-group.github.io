@@ -321,6 +321,7 @@ footer {
 
 .research-card__body ul {
     margin: 0 0 8px 0;
+    list-style-position: inside;
 }
 
 .research-card--placeholder {
