@@ -9,7 +9,7 @@ title: Research
 {% for direction in site.data.research %}
   <article class="research-card">
     <div class="research-card__image">
-      <img src="{{ direction.image | relative_url }}"
+      <img src="{{ direction.home_image | relative_url }}"
            alt="{{ direction.image_alt }}"
            loading="lazy">
     </div>
