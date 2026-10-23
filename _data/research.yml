@@ -2,11 +2,7 @@
   image: "/assets/images/Research_01.jpg"
   home_image: "/assets/images/Research_01_small.jpg"
   image_alt: "Nonlocal metamaterial lattice and engineered long-range interactions"
-  description: >-
-    We investigate how interactions beyond nearest neighbors can be engineered
-    to control static mechanical responses and wave propagation. This approach
-    enables unusual dispersion relations, including roton-like bands, and new
-    ways to implement nonlocal interactions across different physical systems.
+  description: "We investigate how interactions beyond nearest neighbors can be engineered to control static mechanical responses and wave propagation. This approach enables unusual dispersion relations, including roton-like bands, and new ways to implement nonlocal interactions across different physical systems."
   topics:
     - "Beyond-nearest-neighbor interactions and nonlocal elasticity"
     - "Dispersion engineering and roton-like dispersion relations"
