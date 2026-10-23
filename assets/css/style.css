@@ -236,7 +236,7 @@ footer {
 
 .home-research-card img {
     display: block;
-    width: 800px;
+    width: 100%;
     height: auto;
     object-fit: contain;
     object-position: center center;
