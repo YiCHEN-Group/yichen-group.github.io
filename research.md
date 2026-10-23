@@ -24,3 +24,4 @@ title: Research
     </div>
   </article>
 {% endfor %}
+</div>
