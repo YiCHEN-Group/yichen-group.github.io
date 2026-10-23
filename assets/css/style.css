@@ -305,22 +305,22 @@ footer {
 }
 
 .research-card__body {
-    padding: 0 0 0 0;
+    padding: 16px 0 0 16px;
 }
 
 .research-card__body h2 {
     margin-top: 0;
     font-size: 22px;
-    line-height: 1.35;
+    line-height: 1.0;
 }
 
 .research-card__body p {
-    margin: 0 0 8px 0;
-    line-height: 1.35;
+    margin: 0 0 6px 0;
+    line-height: 1.0;
 }
 
 .research-card__body ul {
-    margin: 0 0 8px 0;
+    margin: 0 0 0 0;
     list-style-position: inside;
 }
 
