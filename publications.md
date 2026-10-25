@@ -15,7 +15,7 @@ title: Publications
 
 {% if paper.year != current_year %}
 
-## {{ paper.year }}
+<h2 class="publication-year">{{ paper.year }}</h2>
 
 {% assign current_year = paper.year %}
 

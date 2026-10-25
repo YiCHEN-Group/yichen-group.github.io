@@ -3,7 +3,7 @@ description: "Metamaterials & Multiphysics"
 url: "https://yichen-group.github.io"
 baseurl: ""
 
-markdown: markdown
+markdown: kramdown 
 
 collections:
   publications:

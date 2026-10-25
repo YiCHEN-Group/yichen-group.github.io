@@ -1,17 +1,46 @@
-- name: "Yi Chen"
+- name: "Prof. Yi Chen"
   position: "Principal Investigator"
   photo: "/assets/images/profile.jpg"
   research: "Metamaterial design and applications"
   email: "yi.chen@bit.edu.cn"
 
-- name: "Student Name"
+- name: "Student Name 1"
   position: "Master Student"
+  year: 2026
   photo: "/assets/images/student1.jpg"
   research: "Acoustic nonlocal metamaterials"
-  email: ""
+  email: "example@test.com"
+
+- name: "Student Name 2"
+  position: "Master Student"
+  year: 2026
+  photo: "/assets/images/student2.jpg"
+  research: "Active metamaterials"
+  email: "example@test.com"
 
 - name: "Student Name"
   position: "Master Student"
+  year: 2026
   photo: "/assets/images/student2.jpg"
   research: "Active metamaterials"
-  email: ""
+  email: "example@test.com"
+
+- name: "Student Name"
+  position: "PhD Student"
+  year: 2027
+  photo: "/assets/images/student2.jpg"
+  research: "Active metamaterials"
+  email: "example@test.com"
+
+- name: "Student Name"
+  position: "PhD Student"
+  year: 2027
+  photo: "/assets/images/student2.jpg"
+  research: "Active metamaterials"
+  email: "example@test.com"
+
+- name: "Student Name"
+  position: "Alumni"
+  photo: "/assets/images/student2.jpg"
+  research: "Active metamaterials"
+  email: "example@test.com"

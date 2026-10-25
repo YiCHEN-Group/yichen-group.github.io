@@ -3,8 +3,6 @@ layout: default
 title: Research
 ---
 
-# Research
-
 <div class="research-grid">
 {% for direction in site.data.research %}
   <article class="research-card">
